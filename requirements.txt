@@ -1,7 +1,7 @@
 streamlit==1.28.0
 sentencepiece
-transformers==4.38.2
-torch
+transformers==4.40.0
+torch==2.2.0
 edge-tts
 easyocr
 langdetect
@@ -11,4 +11,5 @@ pillow
 numpy
 python-docx
 pymupdf
+
 
