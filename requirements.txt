@@ -1,5 +1,6 @@
 streamlit
-transformers
+sentencepiece
+transformers==4.38.2
 torch
 edge-tts
 easyocr
